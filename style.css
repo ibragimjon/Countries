@@ -1,0 +1,135 @@
+.site-header {
+    box-shadow: 0 1px 3px rgba(0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.12);
+    margin-bottom: 48px;
+}
+
+.header-container-ibr{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-content{
+    background-color:#F2F2F2;
+}
+
+.container {
+    max-width: 1250px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.site-heading {
+}
+
+.btn {
+   width: 108px;
+   height: 22px;
+  cursor: pointer;
+}
+
+.btn-toggle {
+}
+
+.fas {
+}
+
+
+.fa-moon {
+}
+.site-img {
+}
+.far {
+}
+.hero {
+    margin-bottom: 48px;
+}
+
+.search{
+ width: 480px;
+ height: 36px;
+ margin-top:0;
+ box-shadow: 0 1px 3px rgba(0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.12);
+
+}
+
+.features{
+    margin-top: 0;
+}
+
+.dropdown {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.down{
+    width: 150px;
+    height: 36px;
+}
+
+.container-section{
+    box-shadow: 0 1px 3px rgba(0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.12);
+    width: 264px;
+    margin-bottom: 0;
+}
+
+.fa-chevren-down {
+}
+
+.down-img {
+}
+.hero-list {
+}
+.hero-item {
+}
+.features {
+}
+.countries {
+}
+.country {
+   
+}
+
+.cnt-all{
+    display: flex;
+}
+
+.country-header {
+    
+}
+.country-img {
+    
+    margin-bottom: 0;
+}
+.country-body {
+    margin-left: 20px;
+}
+
+.country-text-btn{
+    /* margin-bottom: 46px; */
+}
+
+.country-title-heading {
+    margin-top: 24px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 26px;
+    margin-left: 3px;
+}
+.country-text {
+}
+.country-strong {
+}
+
+@media (man-width: 521px) { 
+    .container-section{
+        margin-left: 100px;
+        
+    }
+
+    .country{
+       display: inline-block;
+    }
+ }

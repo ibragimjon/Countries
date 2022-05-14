@@ -11,6 +11,6 @@ fetch(api)
 
 function getData(data){
     data.forEach(countries => {
-        console.log(countries.name.common)
+        document.body.innerHTML += `<h1>${countries.name.common}</h1>`
     })
 }
